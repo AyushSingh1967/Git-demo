@@ -16,3 +16,30 @@ body {
 
 }
 
+/* Inline block example */
+.inline-block-menu a {
+    display: inline;
+    background-color: #af0970;
+    color: white;
+    padding: 10px 20px;
+    margin:  5px;
+    text-decoration: none;
+}
+/*Incline block example*/
+.incline-block-menu a {
+    display: inline-block;
+    background-color: #2196F3;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+    text-decoration: none;
+}
+/*Float example*/
+.float-menu a {
+    float:left;
+    background-color: #caae0d;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    margin: 5px;
+}
