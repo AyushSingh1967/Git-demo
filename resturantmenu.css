@@ -1,0 +1,23 @@
+body {
+    background:#f3f5f8;
+    font-family: Arial;
+}
+
+h1 {
+    text-align:center;
+}
+
+.item {
+    width:70%;
+    margin:10px auto;
+    background:white;
+    padding:12px;
+    border-radius:6px;
+    display:flex;
+    justify-content:space-between;
+    box-shadow:0 0 8px rgba(0,0,0,0.1);
+}
+
+.price {
+    font-weight:bold;
+}
