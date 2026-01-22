@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #eef2f3;
+}
+
+header {
+  background: #2b5876;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.post {
+  background: white;
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+  border-left: 6px solid #2b5876;
+  border-radius: 5px;
+}
+
+.date {
+  color: gray;
+  font-size: 14px;
+}
+
+footer {
+  text-align: center;
+  background: #2b5876;
+  padding: 10px;
+  color: white;
+}
