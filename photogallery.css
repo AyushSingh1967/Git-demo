@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    background:#eef2f6;
+    padding:20px;
+}
+
+h1 {
+    text-align:center;
+    margin-bottom:20px;
+}
+
+.grid {
+    display:flex;
+    flex-wrap:wrap;
+    gap:15px;
+    justify-content:center;
+}
+
+.pic {
+    background:white;
+    width:150px;
+    height:150px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-radius:8px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
